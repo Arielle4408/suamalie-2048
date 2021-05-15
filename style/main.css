@@ -347,11 +347,11 @@ hr {
     color: #f9f6f2;
     background: url(https://cdn.pixabay.com/photo/2016/08/24/21/33/gummybears-1618074__340.jpg); }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    color: white;
+    background: url(https://cdn.pixabay.com/photo/2017/07/25/17/00/candy-2538878__340.jpg); }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
-    background: #edcf72;
+    background: url(https://cdn.pixabay.com/photo/2018/03/05/14/05/candy-3200857_960_720.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -359,7 +359,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-    background: #edcc61;
+    background: url(https://cdn.pixabay.com/photo/2015/02/06/19/57/valentine-candy-626446_960_720.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -367,7 +367,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
-    background: #edc850;
+    background: url(?);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
