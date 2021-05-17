@@ -1,9 +1,18 @@
-  }
+.testing {
+  width: 107px;
+  height: 107px;
+  margin: 4%;
+  font-family: "Lobster";
+  font-size: 55px;
+  color: white;
+  padding: 2%; */
+  
+}
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
-  color: #776e65;
+  background: #d4fffe;
+  color: #494d4c;
   font-family: "Newsreader", serif;
   font-size: 18px; }
 
@@ -54,7 +63,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: #166778;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -150,7 +159,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: #166778;
   border-radius: 6px;
   width: 500px;
   height: 500px;
