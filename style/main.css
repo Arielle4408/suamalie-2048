@@ -1,7 +1,13 @@
 .testing {
-  width: 106.25px;
-  height: 106.25px;
-  background:url(https://cdn.pixabay.com/photo/2015/12/12/14/57/giant-rubber-bear-1089612_960_720.jpg);
+  width: 107px;
+  height: 107px;
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/0/04/Candy_colors.jpg);
+  margin: 4%;
+  font-family: "Lobster";
+  font-size: 55px;
+  color: white;
+  padding: 2%;
+  
 }
 html, body {
   margin: 0;
@@ -380,7 +386,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: #f9f6f2;
-    background: #edc53f;
+    background: url(https://cdn.pixabay.com/photo/2018/10/05/03/03/candy-corn-3725011_1280.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -388,7 +394,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/0/04/Candy_colors.jpg);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -396,7 +402,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #3c3a32;
+    background: #b514b2;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
